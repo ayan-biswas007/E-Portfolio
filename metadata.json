@@ -1,0 +1,8 @@
+{
+  "name": "Remix Ayan Biswas - Professional E-Portfolio",
+  "description": "3D interactive enterprise portfolio for Ayan Biswas - Software Engineer \u0026 Odoo Developer",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
